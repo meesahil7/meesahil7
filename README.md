@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5616AQFm8zOpGCnl5w/profile-displaybackgroundimage-shrink_350_1400/0/1660814424134?e=1677715200&v=beta&t=wlZUVV2WZz4FJgnAydkj8F87lnUY5s039CVt3YKxPwg)](https://meesahil7.io)
 <h1 align="center">Hi 👋, I'm Sahil Khan</h1>
 <h3 align="center">A passionate Full-Stack Developer from Kolkata, India</h3>
-<img align="right" width="300px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611db903996a50dc3f5a2925e498c6f26c5b1da3622&rid=giphy.gif&ct=g" />
+<img align="right" width="200px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611db903996a50dc3f5a2925e498c6f26c5b1da3622&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meesahil7&label=Profile%20views&color=0e75b6&style=flat" alt="meesahil7" /> </p>
 
