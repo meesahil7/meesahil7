@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **MERN Stack at Masai School**
 
-- 👨‍💻 All of my projects are available at [https://meesahil7.github.io/](https://meesahil7.github.io/)
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://meesahil7.github.io/">My Portfolio</a>
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **meesahil7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eWRAqunjozqzfwnEGNeomWvII9eFjcqw/view?usp=sharing](https://drive.google.com/file/d/1eWRAqunjozqzfwnEGNeomWvII9eFjcqw/view?usp=sharing)
+- 📄 Know about my experiences <a target="_blank" href="https://drive.google.com/file/d/1eWRAqunjozqzfwnEGNeomWvII9eFjcqw/view?usp=sharing">Click here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
