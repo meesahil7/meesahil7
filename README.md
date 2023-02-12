@@ -24,7 +24,7 @@
 <a href="mailto:meesahil7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/sunil-singh-rathore-5834b4239/">
+<a href="https://www.linkedin.com/in/meesahil7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a> 
 
