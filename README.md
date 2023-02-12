@@ -45,7 +45,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
-![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=expressjs)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat-square&logo=npm)
 
