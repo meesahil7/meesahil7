@@ -51,8 +51,8 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Render](https://img.shields.io/badge/-Render-05122A?style=flat-square&logo=render)
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat-square&logo=vercel)
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat-square&logo=jest)
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat-square&logo=cypress)
 
 <h2 align="left">👨🏻‍💻 My GitHub Stats</h2>
 <div display="flex" >
