@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQFm8zOpGCnl5w/profile-displaybackgroundimage-shrink_350_1400/0/1660814424134?e=1677715200&v=beta&t=wlZUVV2WZz4FJgnAydkj8F87lnUY5s039CVt3YKxPwg)](https://meesahil7.io)
+[![MasterHead](https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg)](https://meesahil7.io)
 <h1 align="center">Hi 👋, I'm Sahil Khan</h1>
 <h3 align="center">A passionate Full-Stack Developer from Kolkata, India</h3>
 
