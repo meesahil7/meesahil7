@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack at Masai School**
 
-- 👨‍💻 All of my projects are available at <a target="_blank" href="https://meesahil7.github.io/">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a target="_blank" href="https://meesahil7.github.io">My Portfolio</a>
 
 - 💬 Ask me about **MERN**
 
