@@ -34,23 +34,23 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; 
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=redux&logoColor=764abc)
-![Chakra_UI](https://img.shields.io/badge/-Chakra_UI-05122A?style=flat-square&logo=chakraui)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp; 
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat-square&logo=tailwind)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; 
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)
-![npm](https://img.shields.io/badge/-npm-05122A?style=flat-square&logo=npm)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=redux&logoColor=764abc)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Render](https://img.shields.io/badge/-Render-05122A?style=flat-square&logo=render)
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat-square&logo=npm)
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat-square&logo=jest)
 ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat-square&logo=cypress)
 
