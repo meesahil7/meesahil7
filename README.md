@@ -72,5 +72,5 @@
   </div>
   <br/>
 
-<a href="http://www.github.com/meesahil7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=meesahil7&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!--<a href="http://www.github.com/meesahil7"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=meesahil7&bg_color=1c1917&color=ffffff&line=84cc16&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
 
