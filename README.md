@@ -7,7 +7,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meesahil7" alt="meesahil7" /></a> </p> -->
 <img align="right" width="300px" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611db903996a50dc3f5a2925e498c6f26c5b1da3622&rid=giphy.gif&ct=g" />
 
-- 🌱 I’m currently working as a **MERN Stack Developer at Digital Edge 360 Pvt. Ltd.**
+- 🌱 I'm a MERN Stack Developer
 
 - 👨‍💻 All of my projects are available at <a target="_blank" href="https://meesahil7.github.io">My Portfolio</a>
 
